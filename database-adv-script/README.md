@@ -1,6 +1,6 @@
 # **`Unleashing Advanced Querying Power`**
 
-<div margin="center" style="border: 1px solid #ccc; border-radius: 6px; padding: 16px; ">
+<div margin="center" style="border: 1px solid #ccc; border-radius: 6px; padding: 16px;  margin-bottom: 20px;">
 
 ## **About the Project**
 This project is a part of the **ALX Airbnb Database Module**, where you will implement advanced SQL querying and optimization techniques to work with a simulated Airbnb database. By diving into real-world challenges like optimizing query performance, writing complex SQL scripts, and applying indexing and partitioning, participants will gain hands-on experience with database management and performance tuning. This ensures you are equipped to handle large-scale applications where efficiency and scalability are critical.
@@ -58,7 +58,7 @@ This comprehensive task flow ensures you learn not only to write efficient SQL q
 
 # **`Tasks`**
 
-<div margin="center" style="border: 1px solid #ccc; border-radius: 6px; padding: 16px; ">
+<div margin="center" style="border: 1px solid #ccc; border-radius: 6px; padding: 16px;  margin-bottom: 20px;">
 
 ## **`0. Write Complex Queries with Joins (mandatory)`**
 **Objective:** Master SQL joins by writing complex queries using different types of joins.
@@ -78,7 +78,7 @@ This comprehensive task flow ensures you learn not only to write efficient SQL q
 - **Files:** **` joins_queries.sql, README.md`**
 </div>
 
-<div margin="center" style="border: 1px solid #ccc; border-radius: 6px; padding: 16px; ">
+<div margin="center" style="border: 1px solid #ccc; border-radius: 6px; padding: 16px;  margin-bottom: 20px;">
 
 ## **`1. Practice Subqueries (mandatory)`**
 **Objective:** Write both correlated and non-correlated subqueries.
@@ -96,7 +96,7 @@ This comprehensive task flow ensures you learn not only to write efficient SQL q
 - **Files:** **` subqueries.sql, README.md`**
 </div>
 
-<div margin="center" style="border: 1px solid #ccc; border-radius: 6px; padding: 16px; ">
+<div margin="center" style="border: 1px solid #ccc; border-radius: 6px; padding: 16px;  margin-bottom: 20px;">
 
 ## **`2. Apply Aggregations and Window Functions (mandatory)`**
 **Objective:** Use SQL aggregation and window functions to analyze data.
@@ -114,7 +114,7 @@ This comprehensive task flow ensures you learn not only to write efficient SQL q
 - **Files:** **` aggregations_and_window_functions.sql, README.md`**
 </div>
 
-<div margin="center" style="border: 1px solid #ccc; border-radius: 6px; padding: 16px; ">
+<div margin="center" style="border: 1px solid #ccc; border-radius: 6px; padding: 16px;  margin-bottom: 20px;">
 
 ## **`3. Implement Indexes for Optimization (mandatory)`**
 **Objective:** Identify and create indexes to improve query performance.
@@ -134,7 +134,7 @@ This comprehensive task flow ensures you learn not only to write efficient SQL q
 - **Files:** **` index_performance.md`**
 </div>
 
-<div margin="center" style="border: 1px solid #ccc; border-radius: 6px; padding: 16px; ">
+<div margin="center" style="border: 1px solid #ccc; border-radius: 6px; padding: 16px;  margin-bottom: 20px;">
 
 ## **`4. Optimize Complex Queries (mandatory)`**
 **Objective:** Refactor complex queries to improve performance.
@@ -156,7 +156,7 @@ This comprehensive task flow ensures you learn not only to write efficient SQL q
 
 </div>
 
-<div margin="center" style="border: 1px solid #ccc; border-radius: 6px; padding: 16px; ">
+<div margin="center" style="border: 1px solid #ccc; border-radius: 6px; padding: 16px;  margin-bottom: 20px;">
 
 ## **`5. Partitioning Large Tables (mandatory)`**
 **Objective:** Implement table partitioning to optimize queries on large datasets.
@@ -176,7 +176,7 @@ This comprehensive task flow ensures you learn not only to write efficient SQL q
 - **Files:** **` partition_performance.md, partitioning.sql`**
 </div>
 
-<div margin="center" style="border: 1px solid #ccc; border-radius: 6px; padding: 16px; ">
+<div margin="center" style="border: 1px solid #ccc; border-radius: 6px; padding: 16px;  margin-bottom: 20px;">
 
 ## **`6. Monitor and Refine Database Performance (mandatory)`**
 **Objective:** Continuously monitor and refine database performance by analyzing query execution plans and making schema adjustments.
@@ -196,7 +196,7 @@ This comprehensive task flow ensures you learn not only to write efficient SQL q
 - **Files:** **` performance_monitoring.md`**
 </div>
 
-<div margin="center" style="border: 1px solid #ccc; border-radius: 6px; padding: 16px; ">
+<div margin="center" style="border: 1px solid #ccc; border-radius: 6px; padding: 16px;  margin-bottom: 20px;">
 
 ## **`7. Manual Review (mandatory)`**
 
@@ -210,3 +210,5 @@ This comprehensive task flow ensures you learn not only to write efficient SQL q
 ---
 **`Copyright © 2025 ALX, All rights reserved.`**
 ---
+
+
