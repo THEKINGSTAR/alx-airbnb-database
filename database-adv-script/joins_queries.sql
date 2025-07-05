@@ -33,6 +33,8 @@ FROM
     Property p
 LEFT JOIN
     Review r on p.property_id = r.property_id
+ORDER BY
+    p.name;
 
 
 
