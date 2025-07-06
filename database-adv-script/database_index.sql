@@ -1,4 +1,4 @@
-EXPLAIN SELECT *
+EXPLAIN ANALYZE SELECT *
 FROM Booking
 WHERE user_id = 'u001-0000-0000-0000-000000000001';
 
@@ -18,6 +18,6 @@ CREATE INDEX idx_property_host ON Property(host_id);
 CREATE INDEX idx_property_location ON Property(location);
 
 
-EXPLAIN SELECT *
+EXPLAIN ANALYZE SELECT *
 FROM Booking
 WHERE user_id = 'u001-0000-0000-0000-000000000001';
